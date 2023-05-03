@@ -13,6 +13,7 @@ It is still a work in progress...
 
 
 ## Steps to run in local machine
+
 - Clone the repository
 - cd into project directory
 - Copy .env.example to .env
